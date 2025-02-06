@@ -17,7 +17,7 @@ Welcome to my portfolio! This is a personal project that showcases my skills and
 ## Live Demo
 
 Check out the live demo of my portfolio:  
-[Live Demo Link](https://your-live-demo-link.com](https://tamilselvansevuganportfolio.netlify.app/)
+[Live Demo Link ](https://tamilselvansevuganportfolio.netlify.app/)]
 
 ## Installation
 
